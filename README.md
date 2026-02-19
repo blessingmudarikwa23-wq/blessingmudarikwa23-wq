@@ -6,7 +6,7 @@ Programming Languages : Writing clean, scalable code.
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,javascript,typescript,go" />
 </p>  
 
-- 🧠 **Machine Learning / Data Science**: Crafting intelligent systems and transforming data into actionable insights.
+Machine Learning / Data Science : Crafting intelligent systems and transforming data into actionable insights.
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
