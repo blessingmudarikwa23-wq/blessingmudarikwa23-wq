@@ -1,5 +1,5 @@
 <h2 align="center"> Tech Stack</h2>  
----
+
 Programming Languages: Proficient in writing clean, efficient, and scalable code across multiple paradigms.
 
 <p>  
@@ -42,5 +42,5 @@ Frontend Technologies : Sculpting sleek interfaces that captivate.
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,materialui,vue,angular,html,css,bootstrap,firebase" />
 </p>
----
+
 
