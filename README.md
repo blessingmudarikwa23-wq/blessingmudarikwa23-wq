@@ -1,10 +1,19 @@
 <h2 align="center"> Tech Stack</h2>  
-
-Programming Languages :  Architecting elegant code, built to scale with seamless ease.
+---
+Programming Languages: Proficient in writing clean, efficient, and scalable code across multiple paradigms.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,javascript,typescript,go" />
-</p>  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</p>
 
 
 Machine Learning / Data Science : Shaping intelligent systems, unlocking data's potential for impactful insights.
