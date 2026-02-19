@@ -1,4 +1,4 @@
-<h2 align="center"> Current Stack</h2>  
+<h2 align="center"> Tech Stack</h2>  
 
 Programming Languages :  Architecting elegant code, built to scale with seamless ease.
 
