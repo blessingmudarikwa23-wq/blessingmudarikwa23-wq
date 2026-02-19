@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blessing Mudarikwa</h1>
+<h1 align="center">Hi , I'm Blessing Mudarikwa</h1>
 <h3 align="center">Supply Chain | Data Analytics | Python | Operations Optimization</h3>
 
 ---
@@ -14,8 +14,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Supply+Chain+Analytics;Python+Developer;Data+Driven+Decision+Maker;Warehouse+Optimization+Specialist" />
-</p>
+</p> 
 
+<h2 align="center"> Tech Stack</h2>  
 
 Programming Languages: Proficient in writing clean, efficient, and scalable code across multiple paradigms.
 
@@ -54,10 +55,24 @@ Machine Learning / Data Science : Shaping intelligent systems, unlocking data's 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
 
-Frontend Technologies : Sculpting sleek interfaces that captivate.
+Frontend Technologies : Designing delightful, performant, and accessible user interfaces.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,materialui,vue,angular,html,css,bootstrap,firebase" />
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/ChakraUI-319795?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 </p>
 
 ### Tools
@@ -85,5 +100,4 @@ Frontend Technologies : Sculpting sleek interfaces that captivate.
 
 ---
 
-⭐ "Turning Data into Decisions. Optimizing Systems. Building the Future."
-<h2 align="center"> Tech Stack</h2>  
+"Turning Data into Decisions. Optimizing Systems. Building the Future."
