@@ -1,4 +1,21 @@
-<h2 align="center"> Tech Stack</h2>  
+<h1 align="center">Hi 👋, I'm Blessing Mudarikwa</h1>
+<h3 align="center">Supply Chain | Data Analytics | Python | Operations Optimization</h3>
+
+---
+
+## About Me
+
+- BCom Supply Chain Management 
+- Passionate about Data Engineering & Operational Efficiency
+- Python | SQL | Power BI | Excel
+- Warehouse & Inventory Optimization Specialist
+- Based in South Africa
+- Currently building real-world data & supply chain projects
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Supply+Chain+Analytics;Python+Developer;Data+Driven+Decision+Maker;Warehouse+Optimization+Specialist" />
+</p>
+
 
 Programming Languages: Proficient in writing clean, efficient, and scalable code across multiple paradigms.
 
@@ -43,4 +60,30 @@ Frontend Technologies : Sculpting sleek interfaces that captivate.
   <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,materialui,vue,angular,html,css,bootstrap,firebase" />
 </p>
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/blessing-mudarikwa-
+- 📧 Email: blessingmudarikwa2@gmail.com
+
+---
+
+⭐ "Turning Data into Decisions. Optimizing Systems. Building the Future."
+<h2 align="center"> Tech Stack</h2>  
