@@ -1,12 +1,12 @@
 <h2 align="center"> Current Stack</h2>  
 
-Programming Languages : Writing clean, scalable code.
+Programming Languages :  Architecting elegant code, built to scale with seamless ease.
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,javascript,typescript,go" />
 </p>  
 
-Machine Learning / Data Science : Crafting intelligent systems and transforming data into actionable insights.
+Machine Learning / Data Science : Shaping intelligent systems, unlocking data's potential for impactful insights.
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -23,7 +23,7 @@ Machine Learning / Data Science : Crafting intelligent systems and transforming 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
 
-Frontend Technologies : Designing modern user interfaces.
+Frontend Technologies : Sculpting sleek interfaces that captivate.
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,materialui,vue,angular,html,css,bootstrap,firebase" />
