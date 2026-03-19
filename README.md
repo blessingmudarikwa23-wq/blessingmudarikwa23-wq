@@ -112,6 +112,10 @@ Frontend Technologies : Designing delightful, performant, and accessible user in
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
+<a href="https://wa.me/27814268361" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 </p>
 
 
